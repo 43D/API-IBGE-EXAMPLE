@@ -6,9 +6,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-Teste da API do IBGE em 3 linguagem diferentes
+Teste da API do IBGE em 3 linguagem diferentes (JavaScript, Python e PHP)
 
 Buscando as 10 maiores mortalidades no paises pertecente ao grupo BRICS
 
 Acesse aqui:
-[Página Inicial](https://43d.github.io/...)
+[Página Inicial](https://43d.github.io/API-IBGE-EXAMPLE)
